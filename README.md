@@ -289,8 +289,8 @@ stateDiagram-v2
 
 1. **Clone Repository**
    ```bash
-   git clone <repository-url>
-   cd sampahbijak
+   git clone <https://github.com/Fairus-24/Interaksi-manusia-komputer2025.git>
+   cd Interaksi-manusia-komputer2025
    ```
 
 2. **Install Dependencies**
@@ -302,7 +302,7 @@ stateDiagram-v2
    ```bash
    npm run dev
    ```
-   Aplikasi akan berjalan di `http://0.0.0.0:5000`
+   Aplikasi akan berjalan di `http://localhost:5000`
 
 4. **Build untuk Production**
    ```bash
@@ -352,7 +352,7 @@ stateDiagram-v2
 ## 📂 Struktur Project
 
 ```
-sampahbijak/
+Interaksi-manusia-komputer2025/
 ├── src/
 │   ├── components/
 │   │   └── Layout.jsx          # Layout utama dengan navbar
